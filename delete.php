@@ -18,7 +18,7 @@
 
 	<div class="form-container">
 
-	<h2>Pendaftaran Kehadiran Mesyuarat Agung PESIMA</h2>
+	<h2>Padam Maklumat Kehadiran Mesyuarat Agung PESIMA</h2>
 	<form action="delete_f.php" method="post">
 	  <fieldset>
 		<legend>Padam Maklumat Peserta </legend>
